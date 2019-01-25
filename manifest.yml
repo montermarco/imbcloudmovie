@@ -1,7 +1,7 @@
 ---
   applications:
     - instances: 1
-    name: socialmovieadding24ene
-    memory: 128M
-    domain: mybluemix.net
-    host: socialmovieadding24ene
+      name: socialmovieadding24ene
+      memory: 128M
+      domain: mybluemix.net
+      host: socialmovieadding24ene
